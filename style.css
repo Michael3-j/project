@@ -1,13 +1,32 @@
+/* *{
+    background-color:#00b3e6;
+
+} */
+
+#selection1{
+  display: flex;
+justify-content:space-around:
+}
+#hd1 { font: size 22px; 
+
+}
 p{
   font-size: 30px;  
 }
 
 .pg1 {
 color: aqua;
+font-style: italic;
 }
 
 .pg2{
     color: black;
+    background-color: white;
+    border: solid black;
+    width: 700px;
+    padding: 30px;
+    margin : auto; 
+    font-family: "Helvetica Neue";
 }
 #boldp { font-weight: bold; bold   
 }
